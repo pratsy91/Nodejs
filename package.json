@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "complete nodejs",
+  "main": "first-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon first-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratsy91/Nodejs.git"
+  },
+  "author": "Pratap singh Chouhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratsy91/Nodejs/issues"
+  },
+  "homepage": "https://github.com/pratsy91/Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
